@@ -3,9 +3,9 @@ Dados do aluno
 -Primeiro Nome: Marco Antonio 
 -Profissão:Advogado 
 -Cidade: São Paulo 
--O que faz nas horas vaga: Toco violão 
+-O que faz nas horas vaga: Toco violão  e guitarra
 -Feedback sobre o curso Qualidade de Software: Execelente curso 
--Feedback sobre a plataforma de estudo da EBAC: 
+-Feedback sobre a plataforma de estudo da EBAC: 10
 
 Obrigado!!!
 
